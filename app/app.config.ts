@@ -82,7 +82,7 @@ export default defineAppConfig({
         /** 展示标题文本，否则展示纯 Logo */
         showTitle: true,
         subtitle: blogConfig.subtitle,
-        emojiTail: ['📄', '🦌', '🙌', '🐟', '🏖️'],
+        emojiTail: ['📄', '🦌', '🙌', '🐟', ，'https://www.rockstargames.com/VI/_next/image?url=%2FVI%2F_next%2Fstatic%2Fmedia%2FheroKeyArt_mobile.5ae24051.png&w=3840&q=100'],
     },
 
     pagination: {
